@@ -1,0 +1,8 @@
+Dice-rolling-stimulator(Develaped by wolf)
+
+Code Explanation 
+ fist step - inport randam  module (randam is a build in module in python)
+ Second step - Generate randam number (number = random.randint(1,6))
+ 3rd step - create a loop
+
+ job done.....
